@@ -2,7 +2,7 @@
 
 Since GetResponse app in shopify is not support the custom fields so write this google app script for fix it.
 
-# How it Works? 
+# How to Work?
 1. Create an API token in GetResponse 
 2. Get the List Token from GetResponse
 3. Update the getResponseListToken and apiKey setting 
